@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "C:/Qt/6.5.3/mingw_64/include",
+                "C:/Qt/6.5.3/mingw_64/include/QtWidgets",
+                "C:/Qt/6.5.3/mingw_64/include/QtCharts",
+                "C:/Qt/6.5.3/mingw_64/include/QtGui",
+                "C:/Qt/6.5.3/mingw_64/include/QtCore",
+                "C:/Users/Kacper/Documents/WorkSpaceVSCODE/Simulink/include",
+                "C:/Users/Kacper/Documents/WorkSpaceVSCODE/Simulink/build/main_autogen/include"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "C:\\Strawberry\\c\\bin\\gcc.exe",
+            "cStandard": "c17",
+            "intelliSenseMode": "windows-gcc-x64"
+        }
+    ],
+    "version": 4
+}

@@ -1,0 +1,22 @@
+^C:\USERS\KACPER\DOCUMENTS\WORKSPACEVSCODE\SIMULINK\BUILD\CMAKEFILES\9A54BE04DF2D9B8C63E3A626322CA80D\AUTOUIC_(CONFIG).STAMP.RULE
+setlocal
+cd C:\Users\Kacper\Documents\WorkSpaceVSCODE\Simulink\build
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\KACPER\DOCUMENTS\WORKSPACEVSCODE\SIMULINK\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Kacper/Documents/WorkSpaceVSCODE/Simulink -BC:/Users/Kacper/Documents/WorkSpaceVSCODE/Simulink/build --check-stamp-file C:/Users/Kacper/Documents/WorkSpaceVSCODE/Simulink/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,10 @@
+^C:\USERS\KACPER\DOCUMENTS\WORKSPACEVSCODE\SIMULINK\BUILD\CMAKEFILES\10B653B6D871F6640DF66AC80AB01377\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Kacper/Documents/WorkSpaceVSCODE/Simulink -BC:/Users/Kacper/Documents/WorkSpaceVSCODE/Simulink/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Kacper/Documents/WorkSpaceVSCODE/Simulink/build/main.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

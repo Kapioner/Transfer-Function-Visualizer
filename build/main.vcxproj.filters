@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Kacper\Documents\WorkSpaceVSCODE\Simulink\build\main_autogen\mocs_compilation_Debug.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Kacper\Documents\WorkSpaceVSCODE\Simulink\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Kacper\Documents\WorkSpaceVSCODE\Simulink\src\mainwindow.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Kacper\Documents\WorkSpaceVSCODE\Simulink\src\transmitancje.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Kacper\Documents\WorkSpaceVSCODE\Simulink\build\main_autogen\mocs_compilation_RelWithDebInfo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Kacper\Documents\WorkSpaceVSCODE\Simulink\include\mainwindow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Kacper\Documents\WorkSpaceVSCODE\Simulink\include\transmitancje.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Kacper\Documents\WorkSpaceVSCODE\Simulink\build\main_autogen\include_Debug\forms\ui_mainwindow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Kacper\Documents\WorkSpaceVSCODE\Simulink\build\main_autogen\include_RelWithDebInfo\forms\ui_mainwindow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Kacper\Documents\WorkSpaceVSCODE\Simulink\build\CMakeFiles\9a54be04df2d9b8c63e3a626322ca80d\autouic_(CONFIG).stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Kacper\Documents\WorkSpaceVSCODE\Simulink\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\Kacper\Documents\WorkSpaceVSCODE\Simulink\forms\mainwindow.ui" />
+    <None Include="C:\Users\Kacper\Documents\WorkSpaceVSCODE\Simulink\build\main_autogen\autouic_Debug.stamp" />
+    <None Include="C:\Users\Kacper\Documents\WorkSpaceVSCODE\Simulink\build\main_autogen\autouic_RelWithDebInfo.stamp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{AE450A72-98F9-32D7-9B50-7C7BB72E3EFA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{E263E45F-F5D7-3643-AB6E-541F97A53D0B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{3E88D0F3-56CF-327A-BDB9-37357EC828CD}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

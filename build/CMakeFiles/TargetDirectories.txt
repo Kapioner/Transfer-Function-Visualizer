@@ -1,0 +1,4 @@
+C:/Users/Kacper/Documents/WorkSpaceVSCODE/Simulink/build/CMakeFiles/main.dir
+C:/Users/Kacper/Documents/WorkSpaceVSCODE/Simulink/build/CMakeFiles/edit_cache.dir
+C:/Users/Kacper/Documents/WorkSpaceVSCODE/Simulink/build/CMakeFiles/rebuild_cache.dir
+C:/Users/Kacper/Documents/WorkSpaceVSCODE/Simulink/build/CMakeFiles/main_autogen.dir

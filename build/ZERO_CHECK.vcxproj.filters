@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Kacper\Documents\WorkSpaceVSCODE\Simulink\build\CMakeFiles\10b653b6d871f6640df66ac80ab01377\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{AE450A72-98F9-32D7-9B50-7C7BB72E3EFA}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
